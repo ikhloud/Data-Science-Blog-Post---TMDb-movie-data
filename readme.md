@@ -37,7 +37,7 @@ The data is contained on 21 variable and 10,000 row.
 The data Contains Information About The Budget, Revenue , the user rating, vote, genre and release year for each movie and more from 1960 to 2015 .
 
 
-#### Results
+### Results
 
 The main findings of the code can be found at the post available here : https://medium.com/@ikhloud00_51119/project-data-science-blog-post-tmdb-movie-33e9ed961d1f?source=friends_link&sk=c30b9b4d62736abf190453220388934f
 
