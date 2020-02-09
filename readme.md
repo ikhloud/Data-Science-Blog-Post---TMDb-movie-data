@@ -41,9 +41,10 @@ The data Contains Information About The Budget, Revenue , the user rating, vote,
 
 The main findings of the code can be found at the post available here : https://medium.com/@ikhloud00_51119/project-data-science-blog-post-tmdb-movie-33e9ed961d1f?source=friends_link&sk=c30b9b4d62736abf190453220388934f
 
-#### Licensing, Authors
+#### Licensing, Authors, Acknowledgements
 Data provider is udacity.
-
+You can find the Licensing for the data and other descriptive information at the Kaggle link available :
+https://www.kaggle.com/tmdb/tmdb-movie-metadata#tmdb_5000_movies.csv
 
 
 
